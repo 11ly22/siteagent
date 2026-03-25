@@ -1,2 +1,3 @@
 # siteagent
 这是论文中的参考实现代码
+注意要去world clim网站下载气候数据信息，此代码是通过调用maxent代码实现
